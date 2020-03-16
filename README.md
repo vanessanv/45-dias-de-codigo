@@ -3,7 +3,6 @@ Meu desafio pessoal de codar por 2h durante 45 dias úteis.
 
 Iniciei esse desafio inspirada na iniciativa da @carolcodes
 
---
 ## Regras pessoais
 
  - Estudar e codar apenas em dias úteis
