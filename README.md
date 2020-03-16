@@ -16,3 +16,4 @@ Iniciei esse desafio inspirada na iniciativa da @carolcodes
 - Fazer o curso de AngularJS do ALura
 
 ## Posts de acompanhamento no Twitter
+[Day 01](https://twitter.com/nessa_vnv/status/1239324905025474560?s=12)|
